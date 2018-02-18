@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR" >
+    <head>
+        <title>Instito Lacio - Aulas Online e conteudo de qualidade</title>
+        <meta charset="utf-8">
+        <meta name = "author" content = "Rodrigo Alano França Serra">
+        <meta name = "generator" content = "Atom">
+        <meta name ="keywords" content = "Aulas de Idiomas online, acompanhamento escolar">
+        <meta name ="description" content = "Página inicial do Instituto Lacio">
+        <meta http-equiv = "refresh" content= "7">
+
+        <style>
+            body {
+                background: #ff0;
+                font-family: Arial, sans-serif;
+
+            }
+
+        </style>
+
+        <script>
+
+        function sorteioNumero (){
+            sorteio.innerHTML = Math.round(math.ramdom() * 50)
+        }
+        function inicial (){
+
+
+        }
+            window.onload = incial;
+                nome.innerHTML = "Rodrigo Alano"
+        </script>
+
+    </head>
+    <body>
+        <h1>Bem vindo ao Instituto Lacio</h1>
+        <h2>Aqui levamos educação a sério </h2>
+        <p id = "nome"></p>
+    </body>
+</html>
